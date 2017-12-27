@@ -1,0 +1,2 @@
+# majorcryptocoin
+GitHub Pages
