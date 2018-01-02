@@ -3356,6 +3356,10 @@ body {
 .cid-qFpZa9mpZu {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qFpZa9mpZu .mbr-text,
+.cid-qFpZa9mpZu .mbr-section-btn {
+  color: #ff3366;
+}
 .cid-qFq0efFmYL {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -3375,6 +3379,11 @@ body {
 }
 .cid-qFq0efFmYL .card-wrapper {
   height: 100%;
+}
+.cid-qFxvZTWFey {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qEXCLqZBHP .navbar {
   padding: .5rem 0;
