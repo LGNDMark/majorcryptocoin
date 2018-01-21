@@ -491,7 +491,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#498ca3"
+              "color": "#cc2952"
             }
           },
           "_name": "info3",
