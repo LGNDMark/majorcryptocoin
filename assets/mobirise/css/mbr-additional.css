@@ -1849,11 +1849,15 @@ body {
 .cid-qEYj67tUUF .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #191970;
 }
 @media (max-width: 550px) {
   .cid-qEYj67tUUF .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-qEYj67tUUF .plan-title {
+  color: #f49316;
 }
 .cid-qHoNA3rKQY {
   padding-top: 120px;
