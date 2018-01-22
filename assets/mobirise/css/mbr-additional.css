@@ -1752,6 +1752,14 @@ body {
 .cid-qEYioYZqtz H1 {
   color: #f49316;
 }
+.cid-qEYioYZqtz .mbr-text,
+.cid-qEYioYZqtz .mbr-section-btn {
+  color: #cc2952;
+}
+.cid-qEYioYZqtz .mbr-text,
+.cid-qEYioYZqtz .mbr-section-btn B {
+  color: #ffffff;
+}
 .cid-qHoO9fikKZ {
   padding-top: 90px;
   padding-bottom: 105px;
